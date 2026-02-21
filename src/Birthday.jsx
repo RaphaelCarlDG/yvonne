@@ -1098,7 +1098,7 @@ export default function BirthdayApp() {
               animation: "nameGlow 3s ease-in-out infinite",
             }}
           >
-            Happy Birthday,
+            Happy Birthday My Babyyy,
           </div>
           <div
             style={{
